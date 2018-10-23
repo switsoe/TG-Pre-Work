@@ -1,0 +1,1 @@
+// Went through the review at the end of the lesson, not sure if this file was supposed to be the first few exercises that I saved as a JS file with comments called "Create-a-Variable"
