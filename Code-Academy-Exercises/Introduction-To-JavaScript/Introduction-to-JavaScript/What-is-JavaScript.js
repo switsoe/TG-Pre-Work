@@ -1,0 +1,1 @@
+// intro to JavaScript, and how it is the main language used in web dev, allowing for dynamic actions
