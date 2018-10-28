@@ -1,0 +1,1 @@
+// Discussion of iterators, and the methods in JavaScript to manipulate elements in arrays

@@ -2,7 +2,7 @@
 
 ## When we hit https://www.techtonicgroup.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
 
-put your answer here
+The browser will first check various caches and determine if the Domain Name System (DNS) record exists.  If not, it goes to the URL and communicates with
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
