@@ -1,0 +1,1 @@
+//Intro to a resource to review browser compatibility based on methods or versions
